@@ -4,9 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Syllabus
     url: /
     weight: 10
-  - name: Documentation
+  - name: Lecture Notes
+    url: docs/
+    weight: 20
+  - name: Homework
     url: docs/
     weight: 20
