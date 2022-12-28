@@ -12,4 +12,4 @@ main:
     weight: 20
   - name: Homework
     url: homework_docs/
-    weight: 10
+    weight: 30
