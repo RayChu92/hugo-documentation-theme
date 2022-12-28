@@ -7,9 +7,14 @@ main:
   - name: Syllabus
     url: /
     weight: 10
-  - name: Lecture Note
-    url: lecture_note_docs/
+  - name: Lecture Notes
+    url: docs/
     weight: 20
   - name: Homework
+<<<<<<< HEAD
     url: homework_docs/
     weight: 30
+=======
+    url: docs/
+    weight: 20
+>>>>>>> parent of 9a5161a (menus test)
