@@ -7,9 +7,9 @@ main:
   - name: Syllabus
     url: /
     weight: 10
-  - name: Lecture Notes
-    url: docs/
+  - name: Lecture Note
+    url: lecture_note_docs/
     weight: 20
   - name: Homework
-    url: docs/
-    weight: 20
+    url: homework_docs/
+    weight: 10
